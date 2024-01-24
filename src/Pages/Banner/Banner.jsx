@@ -41,7 +41,7 @@ const Banner = () => {
         )
 
     return (
-        <div>
+        <div className="">
             <div ref={sliderRef} className="keen-slider">
         <div className="keen-slider__slide number-slide1"><img className="md:h-[650px] w-full" src="../../../assets/home/01.jpg" alt="" /></div>
         <div className="keen-slider__slide number-slide2"><img className="md:h-[650px] w-full" src="../../../assets/home/02.jpg" alt="" /></div>
