@@ -15,7 +15,7 @@ const Category = () => {
             <SectionIntro
             heading={'From 11:00am to 10:00pm'} intro={'ORDER ONLINE'}></SectionIntro>
             <Swiper
-        slidesPerView={4}
+        slidesPerView={3}
         spaceBetween={20}
         pagination={{
           clickable: true,

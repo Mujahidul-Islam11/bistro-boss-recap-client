@@ -43,12 +43,12 @@ const Banner = () => {
     return (
         <div className="">
             <div ref={sliderRef} className="keen-slider">
-        <div className="keen-slider__slide number-slide1"><img className="md:h-[650px] w-full" src="../../../assets/home/01.jpg" alt="" /></div>
-        <div className="keen-slider__slide number-slide2"><img className="md:h-[650px] w-full" src="../../../assets/home/02.jpg" alt="" /></div>
-        <div className="keen-slider__slide number-slide3"><img className="md:h-[650px] w-full" src="../../../assets/home/03.png" alt="" /></div>
-        <div className="keen-slider__slide number-slide4"><img className="md:h-[650px] w-full" src="../../../assets/home/04.jpg" alt="" /></div>
-        <div className="keen-slider__slide number-slide5"><img className="md:h-[650px] w-full" src="../../../assets/home/05.png" alt="" /></div>
-        <div className="keen-slider__slide number-slide6"><img className="md:h-[650px] w-full" src="../../../assets/home/06.png" alt="" /></div>
+        <div className="keen-slider__slide number-slide1"><img className="md:h-[650px] w-full" src="https://i.postimg.cc/tghn3TqB/01.jpg" alt="" /></div>
+        <div className="keen-slider__slide number-slide2"><img className="md:h-[650px] w-full" src="https://i.postimg.cc/1XY8mVB3/02.jpg" alt="" /></div>
+        <div className="keen-slider__slide number-slide3"><img className="md:h-[650px] w-full" src="https://i.postimg.cc/50gHrRFv/03.png" alt="" /></div>
+        <div className="keen-slider__slide number-slide4"><img className="md:h-[650px] w-full" src="https://i.postimg.cc/6qQ7xfdP/04.jpg" alt="" /></div>
+        <div className="keen-slider__slide number-slide5"><img className="md:h-[650px] w-full" src="https://i.postimg.cc/3RrdHgbP/05.png" alt="" /></div>
+        <div className="keen-slider__slide number-slide6"><img className="md:h-[650px] w-full" src="https://i.postimg.cc/HnVnrTmz/06.png" alt="" /></div>
       </div>
         </div>
     );
