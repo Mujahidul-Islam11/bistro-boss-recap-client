@@ -11,7 +11,7 @@ import slider5 from '../../../../assets/home/slide5.jpg'
 
 const Category = () => {
     return (
-        <div className="mx-4 md:mx-16">
+        <div className="mx-4 md:mx-24">
             <SectionIntro
             heading={'From 11:00am to 10:00pm'} intro={'ORDER ONLINE'}></SectionIntro>
             <Swiper

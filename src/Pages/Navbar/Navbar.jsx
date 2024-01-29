@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 import { RiShoppingCartLine } from "react-icons/ri";
 import { RiMenuLine } from "react-icons/ri";
 import { MdClose } from "react-icons/md";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 const Navbar = () => {
   const [menu, setMenu] = useState(false);
